@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Sergii.</h1>
+<h1 align="center">Hi there!</h1>
 <h3 align="left">These are my college projects:</h3>
 
 <h4 align="left">OOP - C++</h4>
